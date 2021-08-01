@@ -162,11 +162,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton('📢 Updates', url='https://t.me/mwklinks'),
-                InlineKeyboardButton('💬 Support', url='https://t.me/redbullfed')
+                InlineKeyboardButton('📢 Channel', url='https://t.me/LM_All_MoviesArchive'),
+                InlineKeyboardButton('💬 Support', url='https://t.me/LatestMoviesGroup2')
                 ],[
-                InlineKeyboardButton('🤖 Developer', url='https://t.me/shamilnelli'),
-                InlineKeyboardButton('🎧 Songs', url='https://t.me/joinchat/OsJr6i6C05E0NmQ1')
+                InlineKeyboardButton('🤖 Developer', url='https://t.me/LEGEND_OF_TG'),
+                InlineKeyboardButton('My Group', url='https://t.me/LatestMoviesGroup2')
                 ],[
                 InlineKeyboardButton('📜 Source Code 📜', url='https://github.com/shamilhabeebnelli/mwk-musics'),
             ]
